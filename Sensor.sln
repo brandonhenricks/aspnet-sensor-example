@@ -14,6 +14,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sensor.Core", "src\Sensor.Core\Sensor.Core.csproj", "{640DBBE8-838D-4E6E-B505-8236100CDCE4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,6 +26,10 @@ Global
 		{99BB2662-AE9B-4612-BAA9-88B659955100}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99BB2662-AE9B-4612-BAA9-88B659955100}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99BB2662-AE9B-4612-BAA9-88B659955100}.Release|Any CPU.Build.0 = Release|Any CPU
+		{640DBBE8-838D-4E6E-B505-8236100CDCE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{640DBBE8-838D-4E6E-B505-8236100CDCE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{640DBBE8-838D-4E6E-B505-8236100CDCE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{640DBBE8-838D-4E6E-B505-8236100CDCE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
